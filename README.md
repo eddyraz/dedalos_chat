@@ -1,3 +1,3 @@
 # dedalos_chat
 
-Asyncronous Elixir Based Chat
+Asyncronous Elixir and phoenix Based Chat with react frontend
