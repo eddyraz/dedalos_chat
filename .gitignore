@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # ---> Elixir
+=======
+>>>>>>> 2f8bdb015d27e75f6e7d1f22305593e8b2918b52
 /_build
 /cover
 /deps
@@ -9,4 +12,7 @@ erl_crash.dump
 *.beam
 /config/*.secret.exs
 .elixir_ls/
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2f8bdb015d27e75f6e7d1f22305593e8b2918b52
